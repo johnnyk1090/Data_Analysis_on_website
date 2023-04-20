@@ -1,6 +1,6 @@
 <h1 align="center" id="title">Data_Analysis_on_rating_movies_website</h1>
 
-<p id="description">The following project will examine the accuracy and possible bias of a specifis website's ratings on movies.</p>
+<p id="description">The following project will examine the accuracy and possible bias of a specific website's ratings on movies.</p>
 <p >The Analysis followed is under the methodology of Pierian Data.</p>
 
     
