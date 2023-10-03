@@ -1,4 +1,4 @@
-<h1 align="center" id="title">Data_Analysis_on_rating_movies_website</h1>
+<h1 align="center" id="title">Data_Analysis_on_website</h1>
 
 <p id="description">The following project will examine the accuracy and possible bias of a specific website's ratings on movies.</p>
 
